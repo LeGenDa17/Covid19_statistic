@@ -1,0 +1,19 @@
+com/example/covidprogram/ApiUtilities.java
+ com.example.covidprogram.ApiUtilities
+com/example/covidprogram/ApiInterface.java
+ com.example.covidprogram.ApiInterface
+com/example/covidprogram/ModelClass.java
+ com.example.covidprogram.ModelClass
+com/example/covidprogram/Adapter.java
+ com.example.covidprogram.Adapter
+ com.example.covidprogram.Adapter$ViewHolder
+com/example/covidprogram/BuildConfig.java
+ com.example.covidprogram.BuildConfig
+com/example/covidprogram/MainActivity.java
+ com.example.covidprogram.MainActivity
+ com.example.covidprogram.MainActivity$1
+ com.example.covidprogram.MainActivity$2
+ com.example.covidprogram.MainActivity$3
+com/example/covidprogram/Splashscreen.java
+ com.example.covidprogram.Splashscreen
+ com.example.covidprogram.Splashscreen$1
