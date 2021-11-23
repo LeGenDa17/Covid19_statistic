@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2b2e4a"
+    tools:context=".Splashscreen">
+
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/logo">
+
+    </ImageView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="from"
+        android:textColor="@color/white"
+        android:fontFamily="@font/raleway"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/maintext"
+        android:layout_marginBottom="0dp"
+        android:textSize="16sp">
+
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LeGenDa"
+        android:layout_alignParentBottom="true"
+        android:textSize="27sp"
+        android:textStyle="bold"
+        android:id="@+id/maintext"
+        android:fontFamily="@font/raleway"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dp"
+        android:layout_marginTop="2dp"
+        android:textColor="@color/blue">
+
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="#StayAtHome"
+        android:textColor="@color/green"
+        android:fontFamily="@font/playlist"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/maintext"
+        android:layout_marginBottom="-75dp"
+        android:textSize="15sp">
+    </TextView>
+
+
+
+</RelativeLayout>

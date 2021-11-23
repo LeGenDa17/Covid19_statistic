@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">covidprogram</string>
+
+    <string name="active">Активно</string>
+    <string name="recovered">Одужало</string>
+    <string name="total">Усього</string>
+    <string name="deaths">Смертей</string>
+    <string name="covid_19">Covid-19</string>
+    <string name="country">Країна</string>
+    <string name="cases">Категорії</string>
+    <string name="increment_number">+232325</string>
+    <string name="number">2323236544</string>
+</resources>
